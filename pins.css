@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+body {
+  font-family: 'Fredoka', sans-serif;
+  background-color: #0052A3;
+  color: black; 
+}
+p {
+  font-family: 'Fredoka', sans-serif;
+}
